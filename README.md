@@ -3,7 +3,7 @@
 
 ## Introduction
 코드스쿼드 2020년 마스터즈 코스 입학을 위해서는 온/오프라인 시험을 치뤄야 합니다. <br>
-현재 온라인 테스트가 진행중[온라인 테스트](https://lucas.codesquad.kr/course/2020%EB%85%84-%EB%A7%88%EC%8A%A4%ED%84%B0%EC%A6%88-%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%AC%B8%EC%A0%9C/2020-problem-1/about)이며 문제는 다음과 같습니다. 
+현재 [온라인 테스트](https://lucas.codesquad.kr/course/2020%EB%85%84-%EB%A7%88%EC%8A%A4%ED%84%B0%EC%A6%88-%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%AC%B8%EC%A0%9C/2020-problem-1)가 진행중이며 문제는 다음과 같습니다. 
 
  **야구 점수판 구현하기** <br>
  1단계: 간단 야구 게임 구현하기 <br> 
